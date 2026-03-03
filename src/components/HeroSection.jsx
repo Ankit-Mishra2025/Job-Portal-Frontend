@@ -38,7 +38,7 @@ const HeroSection = () => {
                 </p>
 
                 {/* Search Bar */}
-                <div className="flex w-full sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-[45%] 2xl:w-[40%] shadow-lg border border-gray-200 pl-3 sm:pl-4 rounded-full items-center gap-2 mx-auto mt-2">
+                <div className="flex w-full sm:w-3/4 md:w-2/3 lg:w-1/2 xl:w-[45%] 2xl:w-[40%] shadow-md border border-gray-200 pl-3 sm:pl-4 rounded-full items-center gap-2 mx-auto mt-2">
                     <input
                         type="text"
                         placeholder="Find your dream jobs"
